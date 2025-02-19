@@ -1,2 +1,1 @@
-# SemVAE
-Semantic Representation Variational Autoencoder
+# Regularized Variational Autoencoder (RegVAE)
